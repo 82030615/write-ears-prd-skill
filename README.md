@@ -151,7 +151,9 @@ write-ears-prd/
 ## 了解更多
 
 - 📚 [EARS 规范详解](./reference/ears.md)
-- 📖 [SDD 来了，产品经理怎么写出 AI 易读的 SPEC](./reference/SDD来了，产品经理怎么写出AI易读的SPEC-一起看下EARS给出的答案.md)
+- 📖 [SDD 来了，产品经理怎么写出 AI 易读的 SPEC-一起看下EARS给出的答案](./reference/SDD来了，产品经理怎么写出AI易读的SPEC-一起看下EARS给出的答案.md)
+    - 公众号链接：https://mp.weixin.qq.com/s/UnZJN9HXe2gLSmdRXOn2jQ
+- 使用花叔的 **[达尔文技能](https://github.com/alchaincyf/darwin-skill)** 进行迭代
 - 🧪 [测试用例示例](./test-output/)
 
 ---
